@@ -1,4 +1,4 @@
-# Programacao Estruturada
+# Programação Estruturada
 Estudo das estruturas de dados básicas e dos algoritmos elementares de pesquisa e de ordenação em memória primária. Desenvolvimento do pensamento computacional com enfoque na implementação de algoritmos para a resolução de problemas que envolvam a manipulação das estruturas de dados básicas.
 
 Os **objetivos específicos** são:
